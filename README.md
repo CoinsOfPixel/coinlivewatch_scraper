@@ -1,4 +1,4 @@
-# coinlivewatch_scrapper
+# coinlivewatch_scraper
 
 Simple script to get data from CoinLiveWatch without any API.
 
